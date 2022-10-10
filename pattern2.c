@@ -1,4 +1,4 @@
-https://onlinegdb.com/bMudrITuDZ
+// https://onlinegdb.com/bMudrITuDZ
 #include <stdio.h>
 int main()
 {
